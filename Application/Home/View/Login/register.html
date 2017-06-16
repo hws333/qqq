@@ -1,0 +1,94 @@
+<div class="register">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-10">
+                <div class="col-sm-4 hidden-xs left">
+                    <a href="index.html"><img src="__PUBLIC__images/ico/8-logo.png" alt="8-logo.png" /></a>
+                </div>
+
+                <div class="col-sm-8 col-xs-12 right">
+                    <h1><a href="javascript:history.back()"><img src="__PUBLIC__images/ico/8-cloes.png" alt="8-cloes.png"/></a></h1>
+                    <h2><span>注册</span></h2>
+                    <form id="reg" method="post"  action="{:U('Home/Login/register')}" >
+                        <p>
+                            <label>用户：</label>
+                            <input type="text" id="regi-user" name="username"/>
+                        </p>
+                        <p>
+                            <label>密码：</label>
+                            <input type="password" id="regi-pass" name="password" />
+                        </p>
+                        <p>
+                            <label>确认密码：</label>
+                            <input type="password" id="sure-pass" name="enterpassword"/>
+                        </p>
+                        <p>
+                            <label>邮箱：</label>
+                            <input type="email" id="regi-email"  name="email"/>
+                        </p>
+                        <p>
+                            <label>手机：</label>
+                            <input type="tel" id="regi-tel" name="tel"/>
+                        </p>
+                        <div class="select">
+                            <p><label>所在地：</label></p>
+                            <fieldset id="city_china">
+                                <select class="province cxselect"  name="province" onchange="pchoice()">
+                                    <option value="">请选择省份</option>
+                                    <foreach name="province" item="p">
+                                        <option id="pro_id" value="{$p.region_id}">{$p.region_name}</option>
+                                    </foreach>
+                                </select>
+
+                                <select class="city cxselect"  name="city">
+                                    <option value="">请选择城市</option>
+                                    <foreach name="city" item="c">
+                                        <option value="{$p.region_id}">{$p.region_name}</option>
+                                    </foreach>
+                                </select>
+
+                                <select class="area cxselect"  name="area">
+                                    <option value="">请选择地区</option>
+                                    <foreach name="area" item="a">
+                                        <option value="{$p.region_id}">{$p.region_name}</option>
+                                    </foreach>
+                                </select>
+
+                            </fieldset>
+                        </div>
+                        <p>
+                            <label>验证码：</label>
+                            <input type="text" id="regi-ma" name="vcode"/>
+                            <img src="{:U('vcode')}" onclick="this.src=this.src+'?'" alt="8-yanzheng.jpg" />
+                            <img src="__PUBLIC__images/ico/8-reflesh.png" onclick="codechange(this)" alt="8-reflesh.png" />
+                        </p>
+                        <p>
+                            <label class="label"><input type="checkbox" name="agree" id="agree" value="" /><span>同意此注册协议</span></label>
+                        </p>
+                        <p>
+                            <label></label>
+                            <input type="submit" id="regi-submit"  value="确认"/>
+                            <input type="reset" id="regi-reset" value="重置"/>
+                        </p>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+    function codechange(o){
+        $(o).prev().prop('src','{:U("vcode")}');
+    }
+
+    function pchoice(){
+        var pid = $('#pro_id').val();
+        $.post('{:U("Login/getRegion")}',{pid:pid},function(data){
+                console.log(data);
+        },'json');
+    }
+
+</script>

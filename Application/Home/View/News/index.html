@@ -1,0 +1,41 @@
+<!--contain-->
+<div class="news">
+    <div class="container">
+        <!--title-->
+        <div class="title">
+            <h3><span>新闻中心</span></h3>
+            <h4>NEW  CENTER</h4>
+            <p>
+                当前位置 : <a href="{:U('Index/index')}">首页</a>>新闻中心
+                <span>阅读量：66666</span>
+            </p>
+        </div>
+        <!--title-end-->
+        <div class="content">
+            <ul>
+                <foreach name="news" item="v">
+                <li>
+                    <div class="pic">
+                        <a href="{:U('details',['id'=>$v['id']])}"><img src="/{$v.image}" alt="3-news-1.jpg" /></a>
+                    </div>
+                    <div class="text">
+                        <h4><a href="{:U('details',['id'=>$v['id']])}">{$v.news_title}</a></h4>
+                        <p class="text-detail"><a href="{:U('details',['id'=>$v['id']])}">{:mb_substr(strip_tags($v['content_one']),0,30,'utf-8')}.....</a></p>
+                        <p>
+                            <a class="more" href="{:U('details',['id'=>$v['id']])}">查看更多</a>
+                            <span>{$v.create_time}</span>
+                        </p>
+                    </div>
+                </li>
+                </foreach>
+
+            </ul>
+            <ul class="page">
+                {$page}
+
+
+            </ul>
+        </div>
+    </div>
+</div>
+<!--contain-end-->

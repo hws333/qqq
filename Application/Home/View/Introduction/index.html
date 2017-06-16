@@ -1,0 +1,38 @@
+<!--contain-->
+		<div class="barnd">
+			<div class="container">
+				<div class="pic">
+					<img src="__PUBLIC__images/ad/2-brand_introduction.jpg" alt="2-brand_introduction.jpg" />
+				</div>
+				<div class="content">
+					<!--title-->
+					<div class="title">
+						<h3><span>品牌介绍</span></h3>
+						<h4>Brand introduction</h4>
+						<!--当前位置-->
+						<p>
+							当前位置 : <a href="/">首页</a>>品牌介绍
+							<span>阅读量：66666</span>
+						</p>
+						<!--当前位置-->
+					</div>
+					<!--title-end-->
+					<div id="abc" class="text" >
+						<div class="pic">
+							<img src="/{$intro.image}" />
+						</div>
+					<style>
+						p{color: white;!important;}
+						span{color: white;!important;}
+					</style>
+						{$intro.content}
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--contain-end-->
+	<script>
+		$(function(){
+			$('#abc').css({color:'#fff'});
+		})
+	</script>

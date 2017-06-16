@@ -1,0 +1,6 @@
+[ 2017-05-23T14:13:01+08:00 ] 127.0.0.1 /favicon.ico
+ERR: 无法加载模块:Favicon
+
+[ 2017-05-23T16:21:16+08:00 ] 127.0.0.1 /test/index.php?m=admin&c=login&a=index
+ERR: 无法加载模块:Test
+
