@@ -1,0 +1,37 @@
+[ 2017-05-26T09:45:46+08:00 ] 127.0.0.1 /Admin/Brand/delete/id/5.html
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_brand` FOREIGN KEY (`brand_id`) REFERENCES `brand` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : DELETE FROM `brand` WHERE `id` = 5
+
+[ 2017-05-26T09:46:37+08:00 ] 127.0.0.1 /Admin/Brand/delete/id/5.html
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_brand` FOREIGN KEY (`brand_id`) REFERENCES `brand` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : DELETE FROM `brand` WHERE `id` = 5
+
+[ 2017-05-26T09:46:39+08:00 ] 127.0.0.1 /Admin/Brand/delete/id/5.html
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_brand` FOREIGN KEY (`brand_id`) REFERENCES `brand` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : DELETE FROM `brand` WHERE `id` = 5
+
+[ 2017-05-26T10:03:01+08:00 ] 127.0.0.1 /Admin/News/add.html
+ERR: 不存在的图像文件
+
+[ 2017-05-26T11:52:19+08:00 ] 127.0.0.1 /Admin/Introduction/edit.html
+ERR: 模板不存在:./Application/Admin/View/Introduction/edit.html
+
+[ 2017-05-26T22:09:48+08:00 ] 127.0.0.1 /Admin/GoodsType/index.html
+ERR: 1146:La table 'shop.goods_type' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `goods_type`
+
+[ 2017-05-26T23:59:05+08:00 ] 127.0.0.1 /Admin/Spec/add.html
+ERR: Think\Model:spec_add方法不存在！
+
+[ 2017-05-26T23:59:35+08:00 ] 127.0.0.1 /Admin/Spec/add.html
+ERR: Think\Model:spec_add方法不存在！
+
+[ 2017-05-26T23:59:38+08:00 ] 127.0.0.1 /Admin/Spec/add.html
+ERR: Think\Model:spec_add方法不存在！
+
+[ 2017-05-26T23:59:40+08:00 ] 127.0.0.1 /Admin/Spec/add.html
+ERR: Think\Model:spec_add方法不存在！
+
+[ 2017-05-26T23:59:43+08:00 ] 127.0.0.1 /Admin/Spec/add.html
+ERR: Think\Model:spec_add方法不存在！
+

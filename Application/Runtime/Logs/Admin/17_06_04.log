@@ -1,0 +1,720 @@
+[ 2017-06-04T00:46:12+08:00 ] 127.0.0.1 /Admin/Goods/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-04T00:48:18+08:00 ] 127.0.0.1 /Admin/Goods/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-04T00:48:40+08:00 ] 127.0.0.1 /Admin/Goods/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-04T00:59:17+08:00 ] 127.0.0.1 /Admin/Goods/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-04T01:00:52+08:00 ] 127.0.0.1 /Admin/Goods/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-04T01:02:59+08:00 ] 127.0.0.1 /Admin/Goods/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-04T01:05:12+08:00 ] 127.0.0.1 /Admin/Goods/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-04T02:16:04+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001773s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001114s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001298s ]
+
+[ 2017-06-04T02:18:24+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001649s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('20','37','23','24')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000902s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+
+[ 2017-06-04T02:25:56+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001710s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000993s ]
+
+[ 2017-06-04T02:36:29+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001655s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('15','19','10','22')  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000985s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001122s ]
+
+[ 2017-06-04T13:30:11+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002780s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('20','37','22','23')  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002199s ]
+
+[ 2017-06-04T13:30:55+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003099s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001220s ]
+
+[ 2017-06-04T13:49:11+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_category1` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`market_price`,`shop_price`,`image`) VALUES ('123','3','123','123','Public/Upload/2017-06-04/149655424998581.jpg')
+
+[ 2017-06-04T13:49:55+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_category1` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`market_price`,`shop_price`,`image`) VALUES ('123','3','123','123','Public/Upload/2017-06-04/149655424998581.jpg')
+
+[ 2017-06-04T13:49:57+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_category1` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`market_price`,`shop_price`,`image`) VALUES ('123','3','123','123','Public/Upload/2017-06-04/149655424998581.jpg')
+
+[ 2017-06-04T13:50:02+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_category1` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`market_price`,`shop_price`,`image`) VALUES ('123','3','123','123','Public/Upload/2017-06-04/149655424998581.jpg')
+
+[ 2017-06-04T13:52:12+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_category1` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`market_price`,`shop_price`,`image`) VALUES ('123','3','123','123','Public/Upload/2017-06-04/149655424998581.jpg')
+
+[ 2017-06-04T13:53:02+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_category1` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`market_price`,`shop_price`,`image`) VALUES ('123','3','123','123','Public/Upload/2017-06-04/149655424998581.jpg')
+
+[ 2017-06-04T13:53:19+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_category1` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`market_price`,`shop_price`,`image`) VALUES ('123','3','123','123','Public/Upload/2017-06-04/149655424998581.jpg')
+
+[ 2017-06-04T13:53:34+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_category1` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`market_price`,`shop_price`,`image`) VALUES ('123','3','123','123','Public/Upload/2017-06-04/149655424998581.jpg')
+
+[ 2017-06-04T13:53:43+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001481s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('15','37','22','23')  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000948s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001082s ]
+
+[ 2017-06-04T13:53:58+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_category1` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`market_price`,`shop_price`,`image`) VALUES ('123','3','123','123','Public/Upload/2017-06-04/149655563225245.jpg')
+
+[ 2017-06-04T13:54:47+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_category1` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`market_price`,`shop_price`,`image`) VALUES ('123','3','123','123','Public/Upload/2017-06-04/149655563225245.jpg')
+
+[ 2017-06-04T13:54:49+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_category1` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`market_price`,`shop_price`,`image`) VALUES ('123','3','123','123','Public/Upload/2017-06-04/149655563225245.jpg')
+
+[ 2017-06-04T13:54:59+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003018s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001679s ]
+
+[ 2017-06-04T13:55:51+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001827s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000956s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001089s ]
+
+[ 2017-06-04T13:56:02+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001491s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000964s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001104s ]
+
+[ 2017-06-04T13:56:17+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002480s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001728s ]
+
+[ 2017-06-04T14:02:51+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1146:La table 'shop.goods_desc' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `goods_desc`
+
+[ 2017-06-04T14:03:11+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003403s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001527s ]
+
+[ 2017-06-04T14:03:32+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1146:La table 'shop.goods_desc' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `goods_desc`
+
+[ 2017-06-04T14:05:59+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001460s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001543s ]
+
+[ 2017-06-04T14:06:25+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1146:La table 'shop.goods_desc' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `goods_desc`
+
+[ 2017-06-04T14:07:46+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002060s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('15','10')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001948s ]
+
+[ 2017-06-04T14:09:18+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1054:Champ 'content' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`category_id`,`market_price`,`shop_price`,`image`,`content`) VALUES ('4','7','4','4','4','Public/Upload/2017-06-04/149655647590410.jpg','&lt;p&gt;4&lt;/p&gt;')
+
+[ 2017-06-04T14:11:05+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004169s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('15','10')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001587s ]
+
+[ 2017-06-04T14:11:29+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001658s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5')  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000997s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001129s ]
+
+[ 2017-06-04T14:11:31+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1054:Champ 'content' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`category_id`,`market_price`,`shop_price`,`image`,`content`) VALUES ('4','5','5','4','4','Public/Upload/2017-06-04/149655668481870.jpg','&lt;p&gt;4&lt;/p&gt;')
+
+[ 2017-06-04T14:14:44+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001444s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001126s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001393s ]
+
+[ 2017-06-04T14:15:01+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1054:Champ 'good_id' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`category_id`,`market_price`,`shop_price`,`image`,`good_id`,`content`) VALUES ('1','5','9','1','1','Public/Upload/2017-06-04/149655689635153.jpg',NULL,'&lt;p&gt;4&lt;/p&gt;')
+
+[ 2017-06-04T14:16:16+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1146:La table 'shop.goods_desc' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `goods_desc`
+
+[ 2017-06-04T14:17:31+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1054:Champ 'content' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`category_id`,`market_price`,`shop_price`,`image`,`content`) VALUES ('1','5','9','1','1','Public/Upload/2017-06-04/149655689635153.jpg','&lt;p&gt;4&lt;/p&gt;')
+
+[ 2017-06-04T14:18:43+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1054:Champ 'content' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`category_id`,`market_price`,`shop_price`,`image`,`content`) VALUES ('1','5','9','1','1','Public/Upload/2017-06-04/149655689635153.jpg','&lt;p&gt;4&lt;/p&gt;')
+
+[ 2017-06-04T14:18:45+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1054:Champ 'content' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`category_id`,`market_price`,`shop_price`,`image`,`content`) VALUES ('1','5','9','1','1','Public/Upload/2017-06-04/149655689635153.jpg','&lt;p&gt;4&lt;/p&gt;')
+
+[ 2017-06-04T14:18:52+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002642s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001168s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001362s ]
+
+[ 2017-06-04T14:19:03+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1054:Champ 'content' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`category_id`,`market_price`,`shop_price`,`image`,`content`) VALUES ('1','5','3','1','1','Public/Upload/2017-06-04/149655714054158.jpg','&lt;p&gt;123&lt;/p&gt;')
+
+[ 2017-06-04T14:22:10+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1146:La table 'shop.goods_desc' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `goods_desc`
+
+[ 2017-06-04T14:22:19+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002358s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('15','19','10','22')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001767s ]
+
+[ 2017-06-04T14:22:46+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1146:La table 'shop.goods_desc' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `goods_desc`
+
+[ 2017-06-04T14:23:57+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001714s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001590s ]
+
+[ 2017-06-04T14:24:10+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1146:La table 'shop.goods_desc' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `goods_desc`
+
+[ 2017-06-04T14:25:24+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1146:La table 'shop.goods_desc' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `goods_desc`
+
+[ 2017-06-04T14:26:45+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1054:Champ 'content' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`category_id`,`market_price`,`shop_price`,`image`,`content`) VALUES ('2','8','9','2','2','Public/Upload/2017-06-04/149655744541682.jpg','&lt;p&gt;2&lt;/p&gt;')
+
+[ 2017-06-04T14:28:08+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002319s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','22')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001848s ]
+
+[ 2017-06-04T14:28:19+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1054:Champ 'content' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`category_id`,`market_price`,`shop_price`,`image`,`content`) VALUES ('1','5','4','1','1','Public/Upload/2017-06-04/149655769616017.jpg','&lt;p&gt;1&lt;/p&gt;')
+
+[ 2017-06-04T15:04:32+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002346s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000915s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001047s ]
+
+[ 2017-06-04T15:06:43+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001767s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002047s ]
+
+[ 2017-06-04T15:06:59+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods_pic`, CONSTRAINT `fk_goods_pic_goods1` FOREIGN KEY (`goods_id`) REFERENCES `goods` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods_pic` (`photo`) VALUES ('Public/Upload/2017-06-04/149656001448601.jpg'),('Public/Upload/2017-06-04/149656001449837.jpg')
+
+[ 2017-06-04T15:07:21+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001967s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','22')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001205s ]
+
+[ 2017-06-04T15:07:32+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods_pic`, CONSTRAINT `fk_goods_pic_goods1` FOREIGN KEY (`goods_id`) REFERENCES `goods` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods_pic` (`photo`) VALUES ('Public/Upload/2017-06-04/149656004979171.jpg'),('Public/Upload/2017-06-04/149656004958421.jpg'),('Public/Upload/2017-06-04/149656005059961.jpg')
+
+[ 2017-06-04T15:09:57+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods_pic`, CONSTRAINT `fk_goods_pic_goods1` FOREIGN KEY (`goods_id`) REFERENCES `goods` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods_pic` (`photo`) VALUES ('Public/Upload/2017-06-04/149656004979171.jpg'),('Public/Upload/2017-06-04/149656004958421.jpg'),('Public/Upload/2017-06-04/149656005059961.jpg')
+
+[ 2017-06-04T15:12:40+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods_pic`, CONSTRAINT `fk_goods_pic_goods1` FOREIGN KEY (`goods_id`) REFERENCES `goods` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods_pic` (`photo`) VALUES ('Public/Upload/2017-06-04/149656004979171.jpg'),('Public/Upload/2017-06-04/149656004958421.jpg'),('Public/Upload/2017-06-04/149656005059961.jpg')
+
+[ 2017-06-04T15:44:48+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001598s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('15','19','22','23')  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001106s ]
+
+[ 2017-06-04T15:48:57+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002208s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000851s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000983s ]
+
+[ 2017-06-04T15:49:51+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000925s ]
+
+[ 2017-06-04T15:50:13+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001652s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000999s ]
+
+[ 2017-06-04T15:58:22+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002246s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000912s ]
+
+[ 2017-06-04T16:01:44+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001703s ]
+
+[ 2017-06-04T16:03:36+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002088s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000870s ]
+
+[ 2017-06-04T16:04:24+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001550s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22')  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000929s ]
+
+[ 2017-06-04T16:05:37+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001989s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001107s ]
+
+[ 2017-06-04T16:07:43+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002141s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002347s ]
+
+[ 2017-06-04T16:09:55+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003693s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('15','19','10','22')  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001612s ]
+
+[ 2017-06-04T16:16:55+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002355s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001742s ]
+
+[ 2017-06-04T16:20:26+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002475s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002098s ]
+
+[ 2017-06-04T16:24:06+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001977s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000968s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001119s ]
+
+[ 2017-06-04T16:27:05+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001170s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001396s ]
+
+[ 2017-06-04T16:28:30+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`shop`.`goods`, CONSTRAINT `fk_goods_brand` FOREIGN KEY (`brand_id`) REFERENCES `brand` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`brand_id`,`category_id`,`market_price`,`shop_price`) VALUES ('123','请选择商品品牌','请选择商品分类','123','123')
+
+[ 2017-06-04T16:31:00+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001536s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000878s ]
+
+[ 2017-06-04T16:35:41+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001558s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001090s ]
+
+[ 2017-06-04T16:36:51+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001890s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('15','22','23')  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001118s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001254s ]
+
+[ 2017-06-04T16:37:21+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002854s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','22','23')  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001242s ]
+
+[ 2017-06-04T16:38:10+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003900s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002501s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002849s ]
+
+[ 2017-06-04T16:38:36+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002035s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','22','23')  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002236s ]
+
+[ 2017-06-04T16:59:45+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001745s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','22','23')  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001249s ]
+
+[ 2017-06-04T17:00:28+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001396s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','22','23')  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001254s ]
+
+[ 2017-06-04T17:53:48+08:00 ] 127.0.0.1 /Admin/Goods/index.html
+ERR: Think\Model:assign方法不存在！
+

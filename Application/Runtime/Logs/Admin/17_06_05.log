@@ -1,0 +1,422 @@
+[ 2017-06-05T09:07:09+08:00 ] 127.0.0.1 /Admin/Goods/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-05T09:07:09+08:00 ] 127.0.0.1 /Admin/Goods/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-05T09:07:13+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','22','23')  [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-05T09:13:17+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-05T09:14:21+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1146:Table 'shop.goods_desc' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `goods_desc`
+
+[ 2017-06-05T09:16:56+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1146:Table 'shop.goods_spec' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `goods_spec`
+
+[ 2017-06-05T09:16:58+08:00 ] 127.0.0.1 /Admin/Goods/add.html
+ERR: 1146:Table 'shop.goods_spec' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `goods_spec`
+
+[ 2017-06-05T09:24:18+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','37','22','23')  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-05T09:25:35+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','22','23')  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-05T09:36:12+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN category ON goods.category_id=category.id INNER JOIN brand ON goods.brand_id=brand.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T09:36:30+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN category ON goods.category_id=category.id INNER JOIN brand ON goods.brand_id=brand.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T09:36:34+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN category ON goods.category_id=category.id INNER JOIN brand ON goods.brand_id=brand.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T09:37:18+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN category ON goods.category_id=category.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T09:37:43+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN category ON goods.category_id=category.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T09:37:45+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN category ON goods.category_id=category.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T09:38:24+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN category ON goods.category_id=category.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T09:38:30+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` INNER JOIN category ON goods.category_id=category.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T09:40:16+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` inner join category ON goods.category_id=category.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T09:40:18+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` inner join category ON goods.category_id=category.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T09:41:23+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` inner join category ON goods.category_id=category.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T09:41:25+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` inner join category ON goods.category_id=category.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T09:41:26+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` inner join category ON goods.category_id=category.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T09:43:53+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` inner join category inner join brand  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T10:03:34+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM `goods` inner join category ON goods.category_id=category.id inner join brand ON goods.brand_id=brand.id  ORDER BY id desc LIMIT 0,2  
+
+[ 2017-06-05T10:07:54+08:00 ] 127.0.0.1 /Admin/Goods/index/p/1.html
+ERR: 1054:Unknown column 'goods.category_id' in 'on clause'
+ [ SQL语句 ] : SELECT * FROM `brand` inner join category ON goods.category_id=category.id inner join goods ON goods.brand_id=brand.id  ORDER BY goods.id desc LIMIT 0,2  
+
+[ 2017-06-05T10:33:01+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('46','47')  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('7')  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-05T10:38:26+08:00 ] 127.0.0.1 /Admin/Goods/index.html
+ERR: 1054:Unknown column 'bname' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` INNER JOIN category on goods.category_id=category.id INNER JOIN brand on goods.brand_id=brand.id  WHERE `goods_name` LIKE '%m%' OR `bname` LIKE '%m%' OR `cname` LIKE '%m%' LIMIT 1  
+
+[ 2017-06-05T10:38:56+08:00 ] 127.0.0.1 /Admin/Goods/index.html
+ERR: 1054:Unknown column 'bname' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` inner join category ON goods.category_id=category.id inner join brand ON goods.brand_id=brand.id  WHERE `goods_name` LIKE '%m%' OR `bname` LIKE '%m%' OR `cname` LIKE '%m%' LIMIT 1  
+
+[ 2017-06-05T10:38:57+08:00 ] 127.0.0.1 /Admin/Goods/index.html
+ERR: 1054:Unknown column 'bname' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `goods` inner join category ON goods.category_id=category.id inner join brand ON goods.brand_id=brand.id  WHERE `goods_name` LIKE '%m%' OR `bname` LIKE '%m%' OR `cname` LIKE '%m%' LIMIT 1  
+
+[ 2017-06-05T11:14:01+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] array_unique() expects parameter 1 to be array, string given E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 136 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('')  [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 146 行.
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+NOTIC: [2] implode(): Invalid arguments passed E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 578 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-05T11:14:04+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] array_unique() expects parameter 1 to be array, string given E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 136 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('')  [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 146 行.
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+NOTIC: [2] implode(): Invalid arguments passed E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 578 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-05T11:15:20+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] array_unique() expects parameter 1 to be array, string given E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 136 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('')  [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 146 行.
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+NOTIC: [2] implode(): Invalid arguments passed E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 578 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-05T11:15:24+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] array_unique() expects parameter 1 to be array, string given E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 136 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('')  [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 146 行.
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+NOTIC: [2] implode(): Invalid arguments passed E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 578 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-05T11:17:59+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] array_unique() expects parameter 1 to be array, string given E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 136 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('')  [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 146 行.
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+NOTIC: [2] implode(): Invalid arguments passed E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 578 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-05T11:23:42+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] array_unique() expects parameter 1 to be array, string given E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 136 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('')  [ RunTime:0.0020s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 146 行.
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+NOTIC: [2] implode(): Invalid arguments passed E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 578 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-05T11:23:55+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] array_unique() expects parameter 1 to be array, string given E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 136 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('')  [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 146 行.
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0070s ]
+NOTIC: [2] implode(): Invalid arguments passed E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 578 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-05T11:24:12+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] array_unique() expects parameter 1 to be array, string given E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 136 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('')  [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 146 行.
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+NOTIC: [2] implode(): Invalid arguments passed E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 578 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-05T11:24:17+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] array_unique() expects parameter 1 to be array, string given E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 136 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('')  [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Admin\Controller\GoodsController.class.php 第 146 行.
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0030s ]
+NOTIC: [2] implode(): Invalid arguments passed E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 578 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec` WHERE `id` IN () 
+
+[ 2017-06-05T11:27:08+08:00 ] 127.0.0.1 /Admin/Goods/edit.html
+ERR: 模板不存在:./Application/Admin/View/Goods/edit.html
+
+[ 2017-06-05T19:31:55+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','22','23')  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-05T19:37:26+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('15','19','10','22')  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-05T19:40:35+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('15','19','10','22')  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-05T19:42:08+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','20','22','23')  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-05T19:42:50+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','22')  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-05T19:43:43+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','22')  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-05T19:45:35+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('19','22')  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-06-05T20:25:44+08:00 ] 127.0.0.1 /Admin/Goods/delete/id/12.html
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`shop`.`goods_desc`, CONSTRAINT `fk_good_desc_goods1` FOREIGN KEY (`goods_id`) REFERENCES `goods` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : DELETE FROM `goods` WHERE `id` = 12
+
+[ 2017-06-05T20:27:29+08:00 ] 127.0.0.1 /Admin/Goods/delete/id/12.html
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`shop`.`goods_desc`, CONSTRAINT `fk_good_desc_goods1` FOREIGN KEY (`goods_id`) REFERENCES `goods` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : DELETE FROM `goods` WHERE `id` = 12
+
+[ 2017-06-05T20:29:12+08:00 ] 127.0.0.1 /Admin/Goods/delete/id/12.html
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`shop`.`goods_desc`, CONSTRAINT `fk_good_desc_goods1` FOREIGN KEY (`goods_id`) REFERENCES `goods` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : DELETE FROM `goods` WHERE `id` = 12
+
+[ 2017-06-05T20:30:09+08:00 ] 127.0.0.1 /Admin/Goods/delete/id/12.html
+ERR: Think\Controller:commit方法不存在！
+
+[ 2017-06-05T20:31:18+08:00 ] 127.0.0.1 /Admin/Goods/delete/id/10.html
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`shop`.`goods_pic`, CONSTRAINT `fk_goods_pic_goods1` FOREIGN KEY (`goods_id`) REFERENCES `goods` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : DELETE FROM `goods` WHERE `id` = 10
+
+[ 2017-06-05T20:32:27+08:00 ] 127.0.0.1 /Admin/Goods/delete/id/10.html
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`shop`.`goods_pic`, CONSTRAINT `fk_goods_pic_goods1` FOREIGN KEY (`goods_id`) REFERENCES `goods` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : DELETE FROM `goods` WHERE `id` = 10
+
+[ 2017-06-05T20:33:23+08:00 ] 127.0.0.1 /Admin/Goods/delete/id/10.html
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`shop`.`goods_pic`, CONSTRAINT `fk_goods_pic_goods1` FOREIGN KEY (`goods_id`) REFERENCES `goods` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+ [ SQL语句 ] : DELETE FROM `goods` WHERE `id` = 10
+
+[ 2017-06-05T20:35:06+08:00 ] 127.0.0.1 /Admin/Goods/delete/id/10.html
+ERR: 1146:Table 'shop.$tablename' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `$tablename`
+
+[ 2017-06-05T20:37:49+08:00 ] 127.0.0.1 /Admin/Goods/handel_group.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `spec_item` WHERE `id` IN ('20','22')  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `spec` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `spec` WHERE `id` IN ('5','6')  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-05T20:46:27+08:00 ] 127.0.0.1 /Admin/Goods/edit/id/7.html
+ERR: Think\Model:relation方法不存在！
+

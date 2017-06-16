@@ -1,0 +1,978 @@
+[ 2017-06-08T09:26:06+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/5.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2017-06-08T09:26:09+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/5.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2017-06-08T09:27:05+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/5.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2017-06-08T09:27:06+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/5.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2017-06-08T09:27:06+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/5.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2017-06-08T09:27:06+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/5.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2017-06-08T09:31:07+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/5.html
+ERR: 1054:Unknown column 'goods_spec' in 'field list'
+ [ SQL语句 ] : SELECT goods.goods_name,goods.shop_price,goods.market_price,`goods_spec`,`goods_desc`,`goods_pic` FROM `goods` WHERE `id` = 5 LIMIT 1  
+
+[ 2017-06-08T09:31:36+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/5.html
+ERR: 1054:Unknown column '' in 'field list'
+ [ SQL语句 ] : SELECT goods.goods_name,goods.shop_price,goods.market_price,`` FROM `goods` WHERE `id` = 5 LIMIT 1  
+
+[ 2017-06-08T09:31:36+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/5.html
+ERR: 1054:Unknown column '' in 'field list'
+ [ SQL语句 ] : SELECT goods.goods_name,goods.shop_price,goods.market_price,`` FROM `goods` WHERE `id` = 5 LIMIT 1  
+
+[ 2017-06-08T09:31:37+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/5.html
+ERR: 1054:Unknown column '' in 'field list'
+ [ SQL语句 ] : SELECT goods.goods_name,goods.shop_price,goods.market_price,`` FROM `goods` WHERE `id` = 5 LIMIT 1  
+
+[ 2017-06-08T09:31:37+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/5.html
+ERR: 1054:Unknown column '' in 'field list'
+ [ SQL语句 ] : SELECT goods.goods_name,goods.shop_price,goods.market_price,`` FROM `goods` WHERE `id` = 5 LIMIT 1  
+
+[ 2017-06-08T09:33:44+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/5.html
+ERR: 1054:Unknown column 'goods_pic' in 'field list'
+ [ SQL语句 ] : SELECT `goods_name`,`shop_price`,`market_price`,`goods_pic`,`goods_desc`,`goods_spec` FROM `goods` WHERE `id` = 5 LIMIT 1  
+
+[ 2017-06-08T09:35:25+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/5.html
+ERR: 1054:Unknown column 'content' in 'field list'
+ [ SQL语句 ] : SELECT `goods_name`,`shop_price`,`market_price`,`content` FROM `goods` WHERE `id` = 5 LIMIT 1  
+
+[ 2017-06-08T11:03:45+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/show_spec')
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T11:04:02+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/show_spec')
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T11:10:52+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/show_spec')
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T11:10:54+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/show_spec')
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T11:53:24+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup')?spec_key=19&spec_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:53:25+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup')?spec_key=20&spec_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:53:27+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup')?spec_key=20%2C22&spec_id=5%2C6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:53:35+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup')?spec_key=20%2C23&spec_id=5%2C6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0060s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:54:34+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup')?spec_key=20&spec_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:54:36+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup')?spec_key=20%2C23&spec_id=5%2C6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:55:12+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup')?spec_key=22&spec_id=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:55:13+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup')?spec_key=19%2C22&spec_id=5%2C6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:55:20+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup')?spec_key=22&spec_id=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:55:22+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup')?spec_key=19%2C23&spec_id=5%2C6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:55:42+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup')?spec_key=22&spec_id=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:55:46+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup')?spec_key=19%2C22&spec_id=5%2C6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:56:14+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup')?spec_key=19%2C23&spec_id=5%2C6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:56:51+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U('Goods/ajaxgetgroup',)?spec_key=19&spec_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:58:50+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U(%22Goods/ajaxgetgroup%22)?spec_key=19&spec_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:58:55+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U(%22Goods/ajaxgetgroup%22)?spec_key=19%2C22&spec_id=5%2C6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:59:54+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U(%22Goods/AjaxGetGroup%22)?spec_key=19&spec_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T11:59:54+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/U(%22Goods/AjaxGetGroup%22)?spec_key=19%2C23&spec_id=5%2C6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T12:00:49+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/:U(%22Goods/AjaxGetGroup%22)?spec_key=19&spec_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0030s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T12:00:50+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/:U(%22Goods/AjaxGetGroup%22)?spec_key=19%2C23&spec_id=5%2C6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`goods_name`,`shop_price`,`market_price`,`image` FROM `goods` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www.hhh.com\Application\Home\Controller\GoodsController.class.php 第 125 行.
+SQL: SHOW COLUMNS FROM `spec_item` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T12:01:27+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20&spec_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T12:01:31+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C22&spec_id=5%2C6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-08T12:06:23+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0060s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:06:24+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:06:24+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0050s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:06:25+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:06:25+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:06:26+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0060s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:06:26+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:06:58+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:06:58+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:07:42+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:07:43+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:07:45+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:07:46+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:14:47+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+ERR: Think\Model:gerField方法不存在！
+
+[ 2017-06-08T12:15:01+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0070s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0110s ]
+
+[ 2017-06-08T12:15:03+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-08T12:15:12+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-08T13:11:53+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002057s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0048s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0389s ]
+
+[ 2017-06-08T13:11:55+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0032s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-08T13:11:56+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0032s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-08T13:11:58+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001249s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0035s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-08T13:11:59+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001345s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0042s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-08T13:18:06+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0030s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-08T13:18:09+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001241s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0031s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-08T13:18:13+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001303s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0030s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-08T13:18:15+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002132s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-08T13:21:09+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001425s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0030s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-08T13:21:10+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0033s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-08T13:21:12+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001263s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-08T13:21:14+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0032s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-08T13:23:07+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001521s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0031s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-08T13:23:07+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001437s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0032s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-08T13:23:10+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001677s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0030s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-08T13:23:11+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001454s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0035s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-08T13:23:18+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001556s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0033s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-08T13:23:35+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001598s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0037s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-06-08T13:23:36+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0030s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-08T13:23:37+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001244s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0030s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-08T13:23:38+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001287s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0033s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-08T13:23:38+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0035s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-08T13:23:39+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0034s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-08T19:40:53+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0000s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:40:54+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0000s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:40:54+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0000s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:40:55+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0030s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:40:55+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-08T19:40:56+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0000s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:40:56+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0000s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:40:56+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-08T19:40:57+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-08T19:40:57+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0000s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:40:57+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0030s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-08T19:40:57+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2017-06-08T19:40:58+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:40:58+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0156s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:40:58+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0030s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:40:59+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0030s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-08T19:40:59+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:40:59+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0000s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:40:59+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0040s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:41:00+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=20%2C23&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0000s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '20,23' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-08T19:43:54+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/news.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T19:47:49+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/news.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T19:47:51+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/news.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T19:47:51+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/news.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T19:47:51+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/news.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T19:47:51+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/news.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T19:48:16+08:00 ] 127.0.0.1 /Home/Goods/pro_details/id/news.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `spec_item` WHERE `id` IN () 
+
+[ 2017-06-08T20:04:48+08:00 ] 127.0.0.1 /Home/News/%7B'news_desc',['id'=%3E$v['id']]%7D
+ERR: 非法操作:{'news_desc',['id'=>$v['id']]}
+
+[ 2017-06-08T20:21:44+08:00 ] 127.0.0.1 /Home/News/news-center.html
+ERR: 非法操作:news-center
+
+[ 2017-06-08T20:22:37+08:00 ] 127.0.0.1 /Home/News/news-center.html
+ERR: 非法操作:news-center
+
+[ 2017-06-08T20:22:40+08:00 ] 127.0.0.1 /Home/News/news-center.html
+ERR: 非法操作:news-center
+
+[ 2017-06-08T20:23:18+08:00 ] 127.0.0.1 /Home/News/%7BU('details',['id'=%3E$v['id']])%7D
+ERR: 非法操作:{U('details',['id'=>$v['id']])}
+
+[ 2017-06-08T20:23:55+08:00 ] 127.0.0.1 /Home/News/%7BU('details',['id'=%3E$v['id']])%7D
+ERR: 非法操作:{U('details',['id'=>$v['id']])}
+
+[ 2017-06-08T20:23:55+08:00 ] 127.0.0.1 /Home/News/%7BU('details',['id'=%3E$v['id']])%7D
+ERR: 非法操作:{U('details',['id'=>$v['id']])}
+
+[ 2017-06-08T20:38:58+08:00 ] 127.0.0.1 /Home/News/brand_introduction.html
+ERR: 非法操作:brand_introduction
+
+[ 2017-06-08T20:39:08+08:00 ] 127.0.0.1 /Home/News/brand_introduction.html
+ERR: 非法操作:brand_introduction
+
+[ 2017-06-08T20:49:25+08:00 ] 127.0.0.1 /Home/News/details/id/7.html
+ERR: 1305:FUNCTION shop.I does not exist
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < I('id') ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T20:49:25+08:00 ] 127.0.0.1 /Home/News/details/id/7.html
+ERR: 1305:FUNCTION shop.I does not exist
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < I('id') ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T20:49:26+08:00 ] 127.0.0.1 /Home/News/details/id/7.html
+ERR: 1305:FUNCTION shop.I does not exist
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < I('id') ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:02:46+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:02:47+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:02:47+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:02:47+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:05:08+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id > 3html ) ORDER BY id asc LIMIT 1  
+
+[ 2017-06-08T21:05:09+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id > 3html ) ORDER BY id asc LIMIT 1  
+
+[ 2017-06-08T21:05:09+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id > 3html ) ORDER BY id asc LIMIT 1  
+
+[ 2017-06-08T21:05:09+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id > 3html ) ORDER BY id asc LIMIT 1  
+
+[ 2017-06-08T21:05:09+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id > 3html ) ORDER BY id asc LIMIT 1  
+
+[ 2017-06-08T21:05:10+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id > 3html ) ORDER BY id asc LIMIT 1  
+
+[ 2017-06-08T21:05:10+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id > 3html ) ORDER BY id asc LIMIT 1  
+
+[ 2017-06-08T21:05:19+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:05:25+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:05:25+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:05:25+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:05:26+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:05:26+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:05:26+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:05:26+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:05:26+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:05:56+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:05:56+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:05:57+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:05:57+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:06:14+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:06:14+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:06:15+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:06:15+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:06:15+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:06:15+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:06:15+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:06:16+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:06:16+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:06:16+08:00 ] 127.0.0.1 /Home/News/details/id/3html
+ERR: 1054:Unknown column '3html' in 'where clause'
+ [ SQL语句 ] : SELECT `id`,`news_title` FROM `news` WHERE ( id < 3html ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-08T21:07:11+08:00 ] 127.0.0.1 /Home/News/details/id/6.html
+ERR: Think\Controller:updown方法不存在！
+
+[ 2017-06-08T21:23:57+08:00 ] 127.0.0.1 /Home/News/details/id/7.html
+ERR: XML标签语法错误 : name="maxup['id']" value="$Think.get.id""
+

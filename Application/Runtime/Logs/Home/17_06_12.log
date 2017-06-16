@@ -1,0 +1,1882 @@
+[ 2017-06-12T00:17:44+08:00 ] 127.0.0.1 /Home/News/brand_introduction.html
+ERR: 非法操作:brand_introduction
+
+[ 2017-06-12T00:21:43+08:00 ] 127.0.0.1 /Home/News/brand_introduction.html
+ERR: 非法操作:brand_introduction
+
+[ 2017-06-12T00:21:44+08:00 ] 127.0.0.1 /Home/News/brand_introduction.html
+ERR: 非法操作:brand_introduction
+
+[ 2017-06-12T00:21:45+08:00 ] 127.0.0.1 /Home/News/brand_introduction.html
+ERR: 非法操作:brand_introduction
+
+[ 2017-06-12T00:21:45+08:00 ] 127.0.0.1 /Home/News/brand_introduction.html
+ERR: 非法操作:brand_introduction
+
+[ 2017-06-12T00:22:16+08:00 ] 127.0.0.1 /Home/News/brand_introduction.html
+ERR: 非法操作:brand_introduction
+
+[ 2017-06-12T00:22:17+08:00 ] 127.0.0.1 /Home/News/brand_introduction.html
+ERR: 非法操作:brand_introduction
+
+[ 2017-06-12T00:22:19+08:00 ] 127.0.0.1 /Home/News/introduction.html
+ERR: 非法操作:introduction
+
+[ 2017-06-12T00:22:26+08:00 ] 127.0.0.1 /Home/introduction/INDEX.html
+ERR: 无法加载控制器:Introduction
+
+[ 2017-06-12T00:22:31+08:00 ] 127.0.0.1 /Home/introduction/index.html
+ERR: 无法加载控制器:Introduction
+
+[ 2017-06-12T00:22:37+08:00 ] 127.0.0.1 /Home/Introduction/index.html
+ERR: 无法加载控制器:Introduction
+
+[ 2017-06-12T00:29:00+08:00 ] 127.0.0.1 /Home/Introduction/contact_us.html
+ERR: 非法操作:contact_us
+
+[ 2017-06-12T00:32:26+08:00 ] 127.0.0.1 /Home/Introduction/contact_us.html
+ERR: 非法操作:contact_us
+
+[ 2017-06-12T00:34:21+08:00 ] 127.0.0.1 /Home/Contact/css/bootstrap.css
+ERR: 非法操作:css
+
+[ 2017-06-12T00:34:21+08:00 ] 127.0.0.1 /Home/Contact/css/style.css
+ERR: 非法操作:css
+
+[ 2017-06-12T00:34:21+08:00 ] 127.0.0.1 /Home/Contact/css/media.css
+ERR: 非法操作:css
+
+[ 2017-06-12T00:34:21+08:00 ] 127.0.0.1 /Home/Contact/js/js.js
+ERR: 非法操作:js
+
+[ 2017-06-12T00:34:21+08:00 ] 127.0.0.1 /Home/Contact/css/common.css
+ERR: 非法操作:css
+
+[ 2017-06-12T00:34:21+08:00 ] 127.0.0.1 /Home/Contact/js/baidu.js
+ERR: 非法操作:js
+
+[ 2017-06-12T00:34:21+08:00 ] 127.0.0.1 /Home/Contact/js/jquery-1.11.0.js
+ERR: 非法操作:js
+
+[ 2017-06-12T00:34:21+08:00 ] 127.0.0.1 /Home/Contact/js/bootstrap.js
+ERR: 非法操作:js
+
+[ 2017-06-12T01:15:46+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001612s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-06-12T01:15:46+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002318s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-06-12T01:15:46+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001461s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0029s ]
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-06-12T01:15:47+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-06-12T01:15:47+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001653s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0031s ]
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-06-12T01:15:47+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001634s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-06-12T01:15:48+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001528s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-06-12T01:17:17+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002273s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0128s ]
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2017-06-12T01:17:48+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001555s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-06-12T01:17:55+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001577s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0031s ]
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-06-12T01:18:00+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002071s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0045s ]
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-06-12T01:21:35+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001528s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0034s ]
+
+[ 2017-06-12T01:21:46+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001805s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0033s ]
+
+[ 2017-06-12T01:23:39+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002392s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0034s ]
+
+[ 2017-06-12T01:24:05+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002751s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0039s ]
+
+[ 2017-06-12T01:24:09+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001691s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0031s ]
+
+[ 2017-06-12T01:25:53+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001568s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-12T01:25:56+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002603s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0035s ]
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-12T01:27:50+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002348s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0038s ]
+NOTIC: [2] Missing argument 1 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 2 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 3 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 4 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+
+[ 2017-06-12T01:28:47+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001543s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0031s ]
+NOTIC: [2] Missing argument 1 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 2 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 3 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 4 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+
+[ 2017-06-12T01:29:18+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0033s ]
+NOTIC: [2] Missing argument 1 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 2 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 3 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 4 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-12T01:29:19+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001566s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0029s ]
+NOTIC: [2] Missing argument 1 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 2 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 3 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 4 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-12T01:29:19+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001557s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0035s ]
+NOTIC: [2] Missing argument 1 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 2 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 3 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 4 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-12T01:29:19+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001619s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0034s ]
+NOTIC: [2] Missing argument 1 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 2 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 3 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 4 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-12T01:29:20+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001609s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0036s ]
+NOTIC: [2] Missing argument 1 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 2 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 3 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 4 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [8] Undefined index: validate D:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-12T01:30:10+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0034s ]
+NOTIC: [2] Missing argument 1 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 2 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 3 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 4 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [8] Undefined variable: _validate D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 20 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-12T01:30:10+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001447s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0032s ]
+NOTIC: [2] Missing argument 1 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 2 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 3 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 4 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [8] Undefined variable: _validate D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 20 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-12T01:30:10+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001515s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0030s ]
+NOTIC: [2] Missing argument 1 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 2 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 3 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 4 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [8] Undefined variable: _validate D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 20 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-12T01:30:11+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001458s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0033s ]
+NOTIC: [2] Missing argument 1 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 2 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 3 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 4 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [8] Undefined variable: _validate D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 20 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-06-12T01:30:21+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002924s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0035s ]
+NOTIC: [2] Missing argument 1 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 2 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 3 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 4 for Common\Model\ContactModel::msg(), called in D:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 13 and defined D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [8] Undefined variable: _validate D:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 20 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-06-12T09:30:57+08:00 ] 127.0.0.1 /Home/Goods/AjaxGetGroup.html?spec_key=19%2C22&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods_spec` [ RunTime:0.0050s ]
+SQL: SELECT `spec_price` FROM `goods_spec` WHERE `spec_key` = '19,22' AND `goods_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:00:54+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-12T10:01:10+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T10:04:10+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0140s ]
+NOTIC: [2] Missing argument 1 for Common\Model\ContactModel::msg(), called in E:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 21 and defined E:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 2 for Common\Model\ContactModel::msg(), called in E:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 21 and defined E:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 3 for Common\Model\ContactModel::msg(), called in E:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 21 and defined E:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [2] Missing argument 4 for Common\Model\ContactModel::msg(), called in E:\www.hhh.com\Application\Home\Controller\ContactController.class.php on line 21 and defined E:\www.hhh.com\Application\Common\Model\ContactModel.class.php 第 17 行.
+NOTIC: [8] Undefined index: validate E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:06:04+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-12T10:07:35+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:07:47+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-12T10:08:49+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:09:20+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:09:46+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:10:14+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:10:31+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:10:35+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:11:12+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Controller:add方法不存在！
+
+[ 2017-06-12T10:12:11+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `contact` (`user_name`,`email`,`tel`,`content`) VALUES ('1','4598855710000000000000@qq.com','3','4') [ RunTime:0.0180s ]
+
+[ 2017-06-12T10:13:26+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:13:38+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = 'lalala' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:19:39+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = 'lalala' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: res E:\www.hhh.com\Application\Home\Controller\ContactController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: res E:\www.hhh.com\Application\Home\Controller\ContactController.class.php 第 35 行.
+SQL: INSERT INTO `contact` (`user_name`,`email`,`tel`,`content`) VALUES ('lalala','4598855710000000000000@qq.com','123588','4') [ RunTime:0.0200s ]
+
+[ 2017-06-12T10:20:01+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined variable: res E:\www.hhh.com\Application\Home\Controller\ContactController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: res E:\www.hhh.com\Application\Home\Controller\ContactController.class.php 第 35 行.
+
+[ 2017-06-12T10:20:21+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+
+[ 2017-06-12T10:20:37+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '1' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:20:45+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '123456' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:22:07+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '123456' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:22:18+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '123456' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:22:30+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '123456' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:22:40+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '123456' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `contact` (`user_name`,`email`,`tel`,`content`) VALUES ('123456','1@163.com','1325689','lnslhirslhosrylhnkseholaew') [ RunTime:0.0220s ]
+
+[ 2017-06-12T10:24:05+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Array to string conversion E:\www.hhh.com\Application\Home\Controller\ContactController.class.php 第 37 行.
+
+[ 2017-06-12T10:24:23+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+
+[ 2017-06-12T10:25:38+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+
+[ 2017-06-12T10:26:19+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+
+[ 2017-06-12T10:26:30+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+
+[ 2017-06-12T10:34:06+08:00 ] 127.0.0.1 /Home/Contact/verify.html&1
+ERR: 非法操作:verify.html&1
+
+[ 2017-06-12T10:34:07+08:00 ] 127.0.0.1 /Home/Contact/verify.html&1&1
+ERR: 非法操作:verify.html&1&1
+
+[ 2017-06-12T10:34:08+08:00 ] 127.0.0.1 /Home/Contact/verify.html&1&1&1
+ERR: 非法操作:verify.html&1&1&1
+
+[ 2017-06-12T10:34:08+08:00 ] 127.0.0.1 /Home/Contact/verify.html&1&1&1&1
+ERR: 非法操作:verify.html&1&1&1&1
+
+[ 2017-06-12T10:34:08+08:00 ] 127.0.0.1 /Home/Contact/verify.html&1&1&1&1&1
+ERR: 非法操作:verify.html&1&1&1&1&1
+
+[ 2017-06-12T10:34:11+08:00 ] 127.0.0.1 /Home/Contact/verify.html&1&1&1&1&1&1
+ERR: 非法操作:verify.html&1&1&1&1&1&1
+
+[ 2017-06-12T10:34:35+08:00 ] 127.0.0.1 /Home/Contact/verify.html&1
+ERR: 非法操作:verify.html&1
+
+[ 2017-06-12T10:35:18+08:00 ] 127.0.0.1 /Home/Contact/verify.html&1
+ERR: 非法操作:verify.html&1
+
+[ 2017-06-12T10:35:22+08:00 ] 127.0.0.1 /Home/Contact/verify.html&1&1
+ERR: 非法操作:verify.html&1&1
+
+[ 2017-06-12T10:35:46+08:00 ] 127.0.0.1 /Home/Contact/Home/Contact/verify
+ERR: 非法操作:Home
+
+[ 2017-06-12T10:35:46+08:00 ] 127.0.0.1 /Home/Contact/Home/Contact/verify
+ERR: 非法操作:Home
+
+[ 2017-06-12T10:35:46+08:00 ] 127.0.0.1 /Home/Contact/Home/Contact/verify
+ERR: 非法操作:Home
+
+[ 2017-06-12T10:35:48+08:00 ] 127.0.0.1 /Home/Contact/Home/Contact/verify
+ERR: 非法操作:Home
+
+[ 2017-06-12T10:35:48+08:00 ] 127.0.0.1 /Home/Contact/Home/Contact/verify
+ERR: 非法操作:Home
+
+[ 2017-06-12T10:35:48+08:00 ] 127.0.0.1 /Home/Contact/Home/Contact/verify
+ERR: 非法操作:Home
+
+[ 2017-06-12T10:35:49+08:00 ] 127.0.0.1 /Home/Contact/Home/Contact/verify&1
+ERR: 非法操作:Home
+
+[ 2017-06-12T10:35:50+08:00 ] 127.0.0.1 /Home/Contact/Home/Contact/verify&1&1
+ERR: 非法操作:Home
+
+[ 2017-06-12T10:39:36+08:00 ] 127.0.0.1 /Home/Contact/verify.html&1
+ERR: 非法操作:verify.html&1
+
+[ 2017-06-12T10:39:37+08:00 ] 127.0.0.1 /Home/Contact/verify.html&1&1
+ERR: 非法操作:verify.html&1&1
+
+[ 2017-06-12T10:39:37+08:00 ] 127.0.0.1 /Home/Contact/verify.html&1&1&1
+ERR: 非法操作:verify.html&1&1&1
+
+[ 2017-06-12T10:42:32+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T10:42:37+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-12T10:42:50+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-12T10:43:00+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T10:43:07+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-12T10:43:29+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-06-12T10:43:40+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T10:43:46+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-06-12T10:44:05+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-12T10:44:42+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-06-12T10:44:48+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-12T10:48:56+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-12T10:49:03+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T10:49:09+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T10:49:15+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-12T10:49:46+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-12T10:50:57+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = 'hahaha' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `contact` (`user_name`,`email`,`tel`,`content`) VALUES ('hahaha','87954231@qq.com','213579823','13264868731264') [ RunTime:0.0270s ]
+
+[ 2017-06-12T10:51:01+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T10:51:33+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T10:52:00+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = 'qqq' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `contact` (`user_name`,`email`,`tel`,`content`) VALUES ('qqq','13256879@qq.com','32165497886','1254367878931') [ RunTime:0.0180s ]
+
+[ 2017-06-12T10:53:31+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = 'ppp' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `contact` (`user_name`,`email`,`tel`,`content`) VALUES ('ppp','qqq@qq.com','1328587','3168465kjsehisebhkser') [ RunTime:0.0240s ]
+
+[ 2017-06-12T10:53:54+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T10:54:08+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = 'ppp' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:56:48+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-06-12T10:57:41+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '777' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `contact` (`user_name`,`email`,`tel`,`content`) VALUES ('777','888@qq.com','1253447','ksekghsrhbkg') [ RunTime:0.0210s ]
+
+[ 2017-06-12T10:57:50+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T10:57:54+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T10:58:02+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '777' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-12T10:58:07+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-06-12T10:58:10+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-12T10:58:27+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '777999' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:58:32+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T10:59:14+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '777999' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-12T10:59:22+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '777999' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:59:26+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '777999' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-12T10:59:29+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '777999' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+
+[ 2017-06-12T10:59:38+08:00 ] 127.0.0.1 /Home/Contact/message.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `contact` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `contact` WHERE `user_name` = '777999' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto E:\www.hhh.com\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `contact` (`user_name`,`email`,`tel`,`content`) VALUES ('777999','543543@qq.com','45345345','453') [ RunTime:0.0350s ]
+
+[ 2017-06-12T19:09:37+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0000s ]
+SQL: UPDATE `car` SET `number`='4' WHERE `id` = 11 [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T19:09:39+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`='5' WHERE `id` = 11 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T19:09:39+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`='6' WHERE `id` = 11 [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T19:09:40+08:00 ] 127.0.0.1 /Home/Car/mins.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: UPDATE `car` SET `number`='5' WHERE `id` = 11 [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T19:09:41+08:00 ] 127.0.0.1 /Home/Car/mins.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`='4' WHERE `id` = 11 [ RunTime:0.0190s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T19:09:41+08:00 ] 127.0.0.1 /Home/Car/mins.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`='3' WHERE `id` = 11 [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T19:09:43+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0000s ]
+SQL: UPDATE `car` SET `number`='4' WHERE `id` = 11 [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0156s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T19:09:44+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0000s ]
+SQL: UPDATE `car` SET `number`='5' WHERE `id` = 11 [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T19:09:45+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`='6' WHERE `id` = 11 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0156s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T19:09:45+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`='7' WHERE `id` = 11 [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T19:09:46+08:00 ] 127.0.0.1 /Home/Car/mins.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0000s ]
+SQL: UPDATE `car` SET `number`='6' WHERE `id` = 11 [ RunTime:0.0312s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0156s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T19:09:48+08:00 ] 127.0.0.1 /Home/Car/mins.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`='2' WHERE `id` = 10 [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T19:09:50+08:00 ] 127.0.0.1 /Home/Car/mins.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0000s ]
+SQL: UPDATE `car` SET `number`='5' WHERE `id` = 11 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0156s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T19:52:16+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+SQL: UPDATE `car` SET `number`='6' WHERE `id` = 11 [ RunTime:0.0280s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T20:07:25+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\www.hhh.com\Application\Home\Controller\CarController.class.php on line 213 and defined E:\www.hhh.com\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 339 行.
+NOTIC: [8] Array to string conversion E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 213 行.
+
+[ 2017-06-12T20:07:50+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\www.hhh.com\Application\Home\Controller\CarController.class.php on line 213 and defined E:\www.hhh.com\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 339 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-12T20:07:53+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\www.hhh.com\Application\Home\Controller\CarController.class.php on line 213 and defined E:\www.hhh.com\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 339 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:08:32+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-06-12T20:08:49+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:10:23+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-12T20:10:45+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:10:52+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:11:08+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\www.hhh.com\Application\Home\Controller\CarController.class.php on line 213 and defined E:\www.hhh.com\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 339 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:11:13+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\www.hhh.com\Application\Home\Controller\CarController.class.php on line 213 and defined E:\www.hhh.com\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 339 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-12T20:11:23+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\www.hhh.com\Application\Home\Controller\CarController.class.php on line 213 and defined E:\www.hhh.com\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 339 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-12T20:11:27+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\www.hhh.com\Application\Home\Controller\CarController.class.php on line 213 and defined E:\www.hhh.com\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 339 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:13:53+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:13:56+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:13:59+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:14:09+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\www.hhh.com\Application\Home\Controller\CarController.class.php on line 213 and defined E:\www.hhh.com\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 339 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-12T20:14:13+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\www.hhh.com\Application\Home\Controller\CarController.class.php on line 213 and defined E:\www.hhh.com\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 339 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:23:11+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: number E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 99 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`=NULL WHERE `id` = 10 [ RunTime:0.0250s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T20:23:17+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: number E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 99 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`=NULL WHERE `id` = 10 [ RunTime:0.1020s ]
+
+[ 2017-06-12T20:23:24+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: number E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 99 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: UPDATE `car` SET `number`=NULL WHERE `id` = 10 [ RunTime:0.0380s ]
+
+[ 2017-06-12T20:23:32+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: number E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 99 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`=NULL WHERE `id` = 10 [ RunTime:0.0130s ]
+
+[ 2017-06-12T20:24:03+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: number E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 99 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`=NULL WHERE `id` = 10 [ RunTime:0.0220s ]
+
+[ 2017-06-12T20:24:03+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: number E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 99 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+SQL: UPDATE `car` SET `number`=NULL WHERE `id` = 10 [ RunTime:0.0090s ]
+
+[ 2017-06-12T20:24:07+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: number E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 99 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`=NULL WHERE `id` = 10 [ RunTime:0.0120s ]
+
+[ 2017-06-12T20:24:37+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\www.hhh.com\Application\Home\Controller\CarController.class.php on line 213 and defined E:\www.hhh.com\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 339 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:24:41+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Missing argument 1 for I(), called in E:\www.hhh.com\Application\Home\Controller\CarController.class.php on line 213 and defined E:\www.hhh.com\ThinkPHP\Common\functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name E:\www.hhh.com\ThinkPHP\Common\functions.php 第 339 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-12T20:26:02+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: Think\Controller:where方法不存在！
+
+[ 2017-06-12T20:27:01+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Missing argument 2 for Home\Controller\CarController::saveCar(), called in E:\www.hhh.com\Application\Home\Controller\CarController.class.php on line 216 and defined E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: number E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 99 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined offset: 0 E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 550 行.
+NOTIC: [8] Undefined offset: 0 E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 596 行.
+NOTIC: [8] Undefined offset: 0 E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 596 行.
+NOTIC: [8] Undefined offset: 0 E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 597 行.
+NOTIC: [8] Undefined offset: 0 E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 600 行.
+NOTIC: [8] Undefined offset: 1 E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 596 行.
+NOTIC: [8] Undefined offset: 1 E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 596 行.
+NOTIC: [8] Undefined offset: 1 E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 597 行.
+NOTIC: [8] Undefined offset: 1 E:\www.hhh.com\ThinkPHP\Library\Think\Db\Driver.class.php 第 600 行.
+SQL: UPDATE `car` SET `number`=NULL WHERE ( `id` = null AND `id` = null  ) [ RunTime:0.0010s ]
+
+[ 2017-06-12T20:31:50+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: number E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 99 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`=NULL WHERE `id` = 10 [ RunTime:0.0170s ]
+
+[ 2017-06-12T20:33:40+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined variable: number E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 99 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`=NULL WHERE `id` = 10 [ RunTime:0.0300s ]
+
+[ 2017-06-12T20:34:11+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: number E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 99 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+SQL: UPDATE `car` SET `number`=NULL WHERE `id` = 10 [ RunTime:0.0210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:35:46+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: number E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 99 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+SQL: UPDATE `car` SET `number`=NULL WHERE `id` = 10 [ RunTime:0.0240s ]
+
+[ 2017-06-12T20:37:53+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0270s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T20:38:05+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0260s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T20:38:08+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T20:38:09+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.1060s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0070s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T20:38:09+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0210s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T20:38:10+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0590s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0070s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T20:38:10+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T20:39:07+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0180s ]
+
+[ 2017-06-12T20:39:23+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`='1' WHERE `id` = 10 [ RunTime:0.0350s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T20:39:23+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`='2' WHERE `id` = 10 [ RunTime:0.0390s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T20:39:31+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0270s ]
+
+[ 2017-06-12T20:41:12+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0430s ]
+
+[ 2017-06-12T20:41:38+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0270s ]
+
+[ 2017-06-12T20:42:07+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:42:39+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-12T20:44:38+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:45:53+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0910s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-12T20:46:01+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-12T20:46:11+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0850s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-12T20:48:21+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T20:50:51+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0260s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T20:50:52+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T20:50:54+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0580s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T20:50:54+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0220s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T20:53:53+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0360s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 139 行.
+NOTIC: [8] Undefined offset: 0 E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 139 行.
+
+[ 2017-06-12T20:54:49+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 139 行.
+NOTIC: [8] Undefined offset: 0 E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 139 行.
+
+[ 2017-06-12T20:55:40+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0200s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 139 行.
+NOTIC: [8] Undefined offset: 0 E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 139 行.
+
+[ 2017-06-12T20:57:36+08:00 ] 127.0.0.1 /Home/Car/statistic.html
+ERR: 非法操作:statistic
+
+[ 2017-06-12T20:58:12+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 139 行.
+NOTIC: [8] Undefined offset: 0 E:\www.hhh.com\Application\Home\Controller\CarController.class.php 第 139 行.
+
+[ 2017-06-12T20:59:39+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0230s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T21:02:34+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:03:30+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0280s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0070s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0020s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:03:39+08:00 ] 127.0.0.1 /Home/Car/mins.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0070s ]
+SQL: UPDATE `car` SET `number`='1' WHERE `id` = 10 [ RunTime:0.0310s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:03:40+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`='2' WHERE `id` = 10 [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:03:42+08:00 ] 127.0.0.1 /Home/Car/mins.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+SQL: UPDATE `car` SET `number`='1' WHERE `id` = 10 [ RunTime:0.0720s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:03:45+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0070s ]
+SQL: UPDATE `car` SET `number`='2' WHERE `id` = 10 [ RunTime:0.0280s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:03:46+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`='3' WHERE `id` = 10 [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:04:57+08:00 ] 127.0.0.1 /Home/Car/mins.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `number`='2' WHERE `id` = 10 [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T21:04:58+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+SQL: UPDATE `car` SET `number`='3' WHERE `id` = 10 [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:05:56+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0300s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:05:57+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0330s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T21:05:59+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0830s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0070s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:06:00+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:06:02+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0200s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:06:02+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0180s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:06:03+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0290s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:06:04+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0230s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T21:06:42+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0340s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:06:44+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0340s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:06:45+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0290s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:06:47+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0250s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:06:48+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0240s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:06:49+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T21:06:56+08:00 ] 127.0.0.1 /Home/Car/plus.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+SQL: UPDATE `car` SET `number`='4' WHERE `id` = 10 [ RunTime:0.1220s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T21:06:57+08:00 ] 127.0.0.1 /Home/Car/mins.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+SQL: UPDATE `car` SET `number`='3' WHERE `id` = 10 [ RunTime:0.0240s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:07:59+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0050s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0220s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:08:02+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0810s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:08:08+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0030s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:10:04+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0230s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+
+[ 2017-06-12T21:10:08+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='1' WHERE `id` = 10 [ RunTime:0.0420s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0070s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0000s ]
+
+[ 2017-06-12T21:10:09+08:00 ] 127.0.0.1 /Home/Car/choose.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0040s ]
+SQL: UPDATE `car` SET `status`='0' WHERE `id` = 10 [ RunTime:0.0280s ]
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0060s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+SQL: SELECT c.*,g.market_price,g.shop_price,g.image,g.goods_name,gc.spec_price,g.stock FROM car as c left join goods as g on g.id=c.goods_id left join goods_spec as gc on gc.goods_id=c.goods_id and gc.spec_key=c.goods_spec_key  WHERE `user_key` = 'f4825dbf92b8bfa5f34af4cd690f5f6b' ORDER BY id desc  [ RunTime:0.0010s ]
+

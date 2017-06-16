@@ -1,0 +1,59 @@
+<div class="panel admin-panel">
+    <div class="panel-head" id="add">
+        <strong>
+            <span class="icon-pencil-square-o"></span>
+            <empty  name="Think.get.id">增加<else />修改</empty>内容
+        </strong>
+    </div>
+    <div class="body-content">
+        <form method="post" class="form-x" action="{:U('index')}" enctype="multipart/form-data">
+            <div class="form-group">
+                <div class="label">
+                    <label>用户名：</label>
+                </div>
+                <div class="field">
+                    <input disabled type="text" class="input w50" name="goods_name" value="{$contact.user_name}"/>
+                    <div class="tips"></div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="label">
+                    <label>邮箱：</label>
+                </div>
+                <div class="field" >
+                    <input disabled type="text" class="input w50" name="market_price" value="{$contact.email}"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="label">
+                    <label>手机号码：</label>
+                </div>
+                <div class="field" >
+                    <input disabled type="text" class="input w50" name="shop_price" value="{$contact.tel}"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="label">
+                    <label>内容：</label>
+                </div>
+                <div class="field">
+                    <!-- 加载编辑器的容器 -->
+                    <textarea disabled id="container" name="content" type="text/plain" style="margin-right:  15px; height: 250px;">{$contact.content}</textarea>
+
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <div class="label">
+                    <label></label>
+                </div>
+                <div class="field">
+                    <button class="button bg-main icon-check-square-o" type="submit" > 返回</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

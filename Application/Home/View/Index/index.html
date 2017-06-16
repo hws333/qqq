@@ -1,0 +1,38 @@
+<div id="myCarousel" class="carousel slide" data-ride="carousel"  data-interval="3000">
+    <!-- 轮播（Carousel）指标 -->
+    <ol class="carousel-indicators">
+        <foreach name='banner' item="v">
+        <li data-target="#myCarousel" data-slide-to="{$key}" <eq name='key' value='0'>class="active"</eq>></li>
+        </foreach>
+    </ol>
+    <!-- 轮播（Carousel）项目 -->
+    <div class="carousel-inner">
+        <foreach name='banner' item="b">
+        <div class="item <eq name='key' value='0'>active</eq>">
+            <div class="buy">
+                <a href="confirm_order.html"><img src="__PUBLIC__images/ico/1-buy.png" alt="1-buy.png"/></a>
+            </div>
+            <a href="{:U('Goods/pro_details',['id'=>$b['goods_id']])}"><img src="{$b.image}" alt="{$key} slide"></a>
+
+        </div>
+        </foreach>
+      <!--   <div class="item">
+            <div class="buy">
+                <a href="confirm_order.html"><img src="__PUBLIC__images/ico/1-buy2.png" alt="1-buy.png"/></a>
+            </div>
+            <a href="pro_details.html"><img src="__PUBLIC__images/ad/banner2.png" alt="Second slide"></a>
+        </div>
+        <div class="item">
+            <div class="buy">
+                <a href="confirm_order.html"><img src="__PUBLIC__images/ico/1-buy.png" alt="1-buy.png"/></a>
+            </div>
+            <a href="pro_details.html"><img src="__PUBLIC__images/ad/banner3.png" alt="Third slide"></a>
+        </div> -->
+    </div>
+    <!-- 轮播（Carousel）导航 -->
+    <a class="carousel-control left" href="#myCarousel"
+       data-slide="prev">&lsaquo;</a>
+    <a class="carousel-control right" href="#myCarousel"
+       data-slide="next">&rsaquo;</a>
+</div>
+<!--container end-->

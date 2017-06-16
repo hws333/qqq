@@ -1,0 +1,106 @@
+<script type="text/javascript" src="__PUBLIC__js/baidu.js"></script>
+<!--引用百度地图API-->
+<style type="text/css">
+    html,body{margin:0;padding:0;}
+    .iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+    .iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
+	.anchorBL{ display:none; }
+</style>
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=1.4"></script>
+
+<!--contain-->
+<div class="contact_us">
+	<div class="container">
+		<!--title-->
+		<div class="title">
+			<h3><span>联系我们</span></h3>
+			<h4>CONTACT  US</h4>
+			<p>
+				当前位置 : <a href="/">首页</a>>联系我们
+				<span>阅读量：66666</span>
+			</p>
+			
+		</div>
+		<!--title-end-->
+		<!--map-->
+		<div id="dituContent">
+			
+		</div>
+		<!--map-end-->
+		<div class="row">
+			<div class="col-sm-6">
+				<p>公司：{$set.company_name}</p>
+				<p>电话：{$set.tel} <span></span><i>传真：{$set.fax}</i></p>
+				<p>邮箱：{$set.email}</p>
+				<p>地址：{$set.address}</p>
+				<p>网址：{$set.web}</p>
+				<div class="pic">
+					<img src="/{$set.image}" />
+					<p>扫一扫</p>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<form action="" method="">
+					<p>
+						<label>用户：</label>
+						<input type="text" name="user_name" id="user_name" value="" />
+					</p>
+					<p>
+						<label>邮箱：</label>
+						<input type="text" id="email" name="email" />
+					</p>
+					<p>
+						<label>手机号码：</label>
+						<input type="text" id="tel" name="tel" />
+					</p>
+					<p>
+						<label>留言框：</label>
+						<textarea name="content"></textarea>
+					</p>
+					<p>验证：<input type="text" id="yanzheng" name="code">
+						<b>
+							<img id="code_pic" src="{:U('verify')}" onclick="this.src=this.src+'?'" alt="code.jpg"/>
+							<small onclick="codechange(this)">看不清，换一张</small>
+						</b>
+					</p>
+					<p>
+						<input type="button" name="submit" id="submit" value="提交" onclick="cta()" />
+						<input type="reset" name="reset" id="reset" value="重置" />
+					</p>
+				
+				
+			</div>
+		</div>
+	</div>
+</div>
+<!--contain-end-->
+</form>
+
+<script>
+	function cta() {
+		var user_name = $('input[name="user_name"]').val();
+		var email = $('input[name="email"]').val();
+        var tel = $('input[name="tel"]').val();
+        var content = $('textarea[name="content"]').val();
+		var code = $('input[name="code"]').val();
+        var url = '{:U("index")}';
+        // alert(url);
+		$.post('{:U("Contact/message")}',{
+			user_name:user_name,
+			email:email,
+			tel:tel,
+			content:content,
+			code:code
+		},function(data) {
+			alert(data.meg);
+			if(data.code==0){
+				return false;
+			}
+			window.location.href=url;
+		},'json');
+	}
+
+	function codechange(o){
+		$(o).prev().prop('src','{:U("verify")}');
+	}
+</script>
