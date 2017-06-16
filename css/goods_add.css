@@ -1,0 +1,42 @@
+.spec_list .tab{
+    height:30px;
+    line-height: 30px;
+    border-bottom: 1px solid #ccc;
+    padding:0;
+}
+.spec_list .tab li{
+    float: left;
+    padding:0 15px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.spec_list .tab li.cur{
+    background-color: #ccc;
+}
+.spec_list .body {
+    padding:10px;
+    display: none;
+}
+.spec_list .body .cur {
+    display: block;
+}
+.spec_list .body dl{
+    clear:both;
+}
+.spec_list .body dt,.spec_list .body dd{
+    float: left;
+}
+.spec_list .body dt{
+    margin-right: 10px;
+}
+.spec_list .body dd{
+    padding:0 10px;
+    border:1px solid #ccc;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.spec_list .body dd.cur{
+    background: #01a1ff;
+    border: 1px solid #01a1ff;
+    color: white;
+}
